@@ -116,6 +116,12 @@
 	. = ..()
 	return FALSE // Always fly through the tent
 
+/// Operations tent, the CO variant of the command tent: contains effectively a miniature CIC.
+/obj/structure/tent/ops
+	icon_state = "ops_interior"
+	roof_state = "ops_top"
+	desc = "An advanced USCM operations tent, equipped with everything a commander in the field would need for success. Despite it's important contents, the designers seem to have cheaped out on quality canvas. You could probably kick right through this thing."
+
 /// Command tent, providing basics for field command: a phone, and an overwatch console
 /obj/structure/tent/cmd
 	icon_state = "cmd_interior"

@@ -1,0 +1,17 @@
+"a" = (/turf/template_noop,/area/space)
+"g" = (/obj/structure/blocker/tent{dir = 4},/obj/structure/blocker/tent{dir = 1},/obj/structure/surface/table,/turf/template_noop,/area/space)
+"s" = (/obj/structure/blocker/tent{dir = 4},/obj/structure/blocker/tent,/obj/structure/bed/chair{dir = 8},/turf/template_noop,/area/space)
+"t" = (/obj/structure/blocker/tent{dir = 8},/obj/structure/bed/chair{dir = 4},/turf/template_noop,/area/space)
+"v" = (/obj/structure/blocker/tent{dir = 8},/obj/structure/blocker/tent,/obj/structure/surface/table,/turf/template_noop,/area/space)
+"F" = (/obj/structure/blocker/tent/full_tile,/turf/template_noop,/area/space)
+"Q" = (/obj/structure/blocker/tent{dir = 4},/turf/template_noop,/area/space)
+"T" = (/obj/structure/blocker/tent{dir = 8},/obj/structure/blocker/tent{dir = 1},/obj/structure/surface/table,/obj/structure/transmitter/tent{phone_category = "Command"; phone_id = "Ground Operations"; pixel_y = 26},/turf/template_noop,/area/space)
+"W" = (/obj/structure/tent_curtain,/turf/template_noop,/area/space)
+"Y" = (/obj/structure/blocker/tent{dir = 1},/obj/structure/surface/table,/turf/template_noop,/area/space)
+
+(1,1,1) = {"
+FFF
+TYg
+taQ
+vWs
+"}

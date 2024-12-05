@@ -126,6 +126,11 @@
 		qdel(gfx)
 	qdel(src) // Success!
 
+/obj/item/folded_tent/ops
+	name = "folded USCM Operations Tent"
+	icon_state = "ops"
+	desc = "A standard USCM Operations tent. This one comes with a self-powered miniature CIC. Unfold in a suitable location to maximize usefulness. Senior Officer not included. ENTRANCE TO THE SOUTH."
+
 /obj/item/folded_tent/cmd
 	name = "folded USCM Command Tent"
 	icon_state = "cmd"

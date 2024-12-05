@@ -6,6 +6,10 @@
 	mappath = "maps/tents/[map_id].dmm"
 	return ..()
 
+/datum/map_template/tent/ops
+	name = "OPS tent"
+	map_id = "tent_ops"
+
 /datum/map_template/tent/cmd
 	name = "CMD Tent"
 	map_id = "tent_cmd"
